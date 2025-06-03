@@ -49,7 +49,7 @@ drum-kit/
 │
 ├── assets/
 │   ├── sounds/            # Drum sound files (.wav)
-│   └── images/            # Background image(s)
+│   └── images/            
 │
 ├── index.html             # Main HTML file
 ├── styles.css             # CSS styles and transitions
@@ -63,12 +63,12 @@ drum-kit/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/drum-kit.git
+   git clone https://github.com/greeshma-kenche/drum-kit-web-app.git
    ```
 
 2. **Navigate to the project folder**
    ```bash
-   cd drum-kit
+   cd drum-kit-web-app
    ```
 
 3. **Open `index.html` in your browser**
@@ -80,7 +80,6 @@ drum-kit/
 ## 📸 Screenshot
 
 ![Drum Kit Screenshot](assets/images/screenshot.png)  
-*(Make sure to save a screenshot as `screenshot.png` inside `assets/images/`)*
 
 ---
 
