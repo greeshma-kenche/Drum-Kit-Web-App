@@ -63,12 +63,12 @@ drum-kit/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/greeshma-kenche/drum-kit-web-app.git
+   git clone https://github.com/greeshma-kenche/Drum-Kit-Web-App.git
    ```
 
 2. **Navigate to the project folder**
    ```bash
-   cd drum-kit-web-app
+   cd Drum-Kit-Web-App
    ```
 
 3. **Open `index.html` in your browser**
