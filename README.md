@@ -8,8 +8,7 @@ An interactive browser-based drum kit built using **HTML**, **CSS**, and **JavaS
 
 ## 🚀 Live Demo
 
-👉 [**Try It Live**](#)  
-_(Replace `#` with your live deployment URL, e.g., GitHub Pages, Netlify, or Vercel)_
+👉 [**Try It Live**](https://greeshma-kenche.github.io/Drum-Kit-Web-App/)  
 
 ---
 
