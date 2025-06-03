@@ -31,6 +31,7 @@ body {
 }
 
 .js-keys {
-    border: 2px solid white;
+    border: 2px solid rgb(129, 194, 226);
     transition: border 0.15s;
+    font-size: 42px;
 }
